@@ -1,12 +1,14 @@
 # SIGNATE　Jリーグの観客動員数予測
 
+https://signate.jp/competitions/27
+
 経過発表段階のソースコードです。
 
 その後改善したものは現時点で非公開（公開日未定）
 
 ## 結果
 
-![rank](https://user-images.githubusercontent.com/73447865/134067951-85b3b19f-e327-4fdf-853a-00ee5bbbf7d1.png)
+![スクリーンショット 2021-09-21 132706](https://user-images.githubusercontent.com/73592250/134111599-b0395002-aea6-4bea-9e05-7959f184347f.png)
 
 ## NoteBook 目次
 
